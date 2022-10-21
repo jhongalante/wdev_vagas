@@ -1,2 +1,2 @@
 # WDEV_VAGAS
-Criação de um simples CRUD com PHP, POD e MySQL
+Criação de um simples CRUD com PHP, PDO e MySQL
